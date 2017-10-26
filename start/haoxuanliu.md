@@ -1,7 +1,7 @@
 # 尝试较正式的使用Markdown
 * 虽然可能不太好看
 ***
-##乱七八糟的练习
+## 乱七八糟的练习
 下面是比较全的操作:
 [我在简书上的操作](http://www.jianshu.com/p/a96b77ba86e5)
 ***
@@ -11,8 +11,8 @@
 []()
 ![刺客信条](http://upload-images.jianshu.io/upload_images/8685793-f63e8581c27758f4.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-多行代码的操作还不错
-##KNN实现
+* 多行代码的操作还不错
+## KNN实现
 1.算当前点与所有点的距离，排序
 2.找前k个点查看分类
 3.点最多的分类==当前点的分类
